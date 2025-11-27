@@ -1,0 +1,8 @@
+{
+  "name": "Aura Voice Assistance",
+  "description": "A personal voice assistant capable of opening mobile apps via voice commands using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
